@@ -1,3 +1,3 @@
 # Ecommerce-website
-#fronent
+#client
 #server
