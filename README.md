@@ -3,3 +3,4 @@
 #server
 #pages
 #images
+#videos 
