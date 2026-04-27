@@ -2,5 +2,5 @@
 #client
 #server
 #pages
-#images
+
 
