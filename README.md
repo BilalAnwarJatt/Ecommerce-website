@@ -4,4 +4,3 @@
 #pages
 #images
 #videos 
-#blogs
